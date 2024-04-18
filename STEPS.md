@@ -11,7 +11,7 @@
 8 - Change something in the experimental branch 
 9 - Change something in the experimental branch
 10 - Change something in the main branch
-11 - pull the changes in the experimental to the Bug-Fix branch
+11 - pull the changes in the experimental to the Bug-Fix branch (Merge Conflict)
 12 - Change something in the Bug-Fix branch 
 13 - pull the changes in the Bug-fix to the main branch
 14 - Change something in the main branch
